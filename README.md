@@ -1,5 +1,22 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>🎓 B.Tech CSE Student at Ramgarh Engineering College (2023–2027)<br><br>💻 Passionate about Software Development, Problem Solving, and Building Real-World Applications<br><br>🔭 Currently working on React and Full-Stack Development Projects<br><br>🌱 Learning Advanced DSA, System Design, and Modern Web Technologies<br><br>👯 Open to collaborating on Open Source, React, and AI-based Projects<br><br>💬 Ask me about React, JavaScript, Python, C++, SQL, and Machine Learning<br><br>⚡ Fun fact: I enjoy transforming complex problems into simple and user-friendly solutions.
+# Hi there 👋, I'm Sweta Agrawal
+💻 Software Developer | Full-Stack Developer | AI Enthusiast <br><br>
+🎓 B.Tech Computer Science & Engineering Student (2023–2027)
+
+
+🚀 Passionate about Software Development, Problem Solving, and Building Real-World Applications
+
+
+🔭 Currently working on React, Full-Stack Development, and AI-powered Projects
+
+
+🌱 Learning Data Structures & Algorithms, System Design, Cloud Computing, and Modern Web Technologies
+
+
+🤝 Open to collaborating on Open Source, Web Development, and AI/ML Projects 
+
+
+📫 Reach me at: swetaagrawale@gmail.com
+
 
 
 ## 🌐 Socials:
